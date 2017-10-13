@@ -1,0 +1,54 @@
+.azul{
+ background-color: blue;
+}
+
+h1,h2{
+	color:white;
+}
+
+a{
+	color:white;
+	text-decoration: none;
+}
+
+div{
+	background-color: lightblue;
+}
+
+li:first-of-type+li{
+	color:white;
+}
+
+#verde{
+	color:green;
+}
+li:lastchild {
+	color:yellow;
+}
+.caja{
+	background-color:yellow;
+	padding:1em;
+	border:1em inset black;
+	text-align: center;
+}
+
+.caja2{
+	background-color: violet;
+	padding-top:1em;
+	margin-top: 1em;
+	border:1em ridge black;
+	
+}
+h2{
+	text-align:center;
+}
+.caja3{
+	background-color: green;
+	padding-top:1em;
+	margin-top: 1em;
+	border:1em ridge black;
+	text-align: center;
+	
+body{
+	margin:0;
+}
